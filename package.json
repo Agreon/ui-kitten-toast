@@ -1,6 +1,6 @@
 {
   "name": "ui-kitten-toast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Toasts with ui-kitten",
   "main": "index.js",
   "repository": "https://github.com/agreon/ui-kitten-toast",
