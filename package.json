@@ -1,0 +1,23 @@
+{
+  "name": "ui-kitten-toast",
+  "version": "0.0.1",
+  "description": "Toasts with ui-kitten",
+  "main": "index.js",
+  "repository": "https://github.com/agreon/ui-kitten-toast",
+  "author": "Daniel Huth <daniel.huth1996@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@ui-kitten/components": "^5.0.0",
+    "react": "^17.0.1",
+    "react-native": "^0.63.4",
+    "tailwind-rn": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "~16.9.35",
+    "@types/react-dom": "~16.9.8",
+    "@types/react-native": "~0.63.2",
+    "tailwindcss": "^2.0.3",
+    "typescript": "~4.0.0"
+  }
+}
